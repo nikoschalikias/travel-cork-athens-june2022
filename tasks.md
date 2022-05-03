@@ -7,5 +7,6 @@
 
 # tasks
 
-- [ ] 1. 
+- [ ] 1. Contact NOB
+- [ ] 2. Ask for Annual leave 
 
