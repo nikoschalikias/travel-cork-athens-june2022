@@ -9,4 +9,5 @@
 
 - [ ] 1. Contact NOB
 - [ ] 2. Ask for Annual leave 
-
+- [ ] 3. Contact Froso, for Yaris insurance
+- [ ] 4. Review Tax for Yaris
