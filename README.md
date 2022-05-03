@@ -13,16 +13,16 @@
 * Booking reference: **LJV63K**
 * BA5922 Aer Lingus Economy
 * Confirmed
-* **18 Jun 2022** 16:15 Cork 
+* **18 Jun 2022 16:15 Cork**  
 * ---> 18 Jun 2022 17:35 Heathrow (London) Terminal 2
-* Hand baggage: View your Aer Lingus allowance /  
+* Hand baggage: [View your Aer Lingus allowance](https://www.mybaggage.com/shipping/airlines/aer-lingus-baggage-allowance/#:~:text=Aer%20Lingus%20Cabin%20Baggage,25%20x%2033%20x%2020cm.)  
 * Checked baggage: **1 bags at 23kg** (51lbs)
 
 ## LHR ---> ATH
 * Same Booking reference: **LJV63K**
 * BA0634 British Airways, Euro Traveller
-|* Confirmed
-* **18 Jun 2022** 20:20 Heathrow (London) Terminal 5
+* Confirmed
+* **18 Jun 2022 20:20 Heathrow (London) Terminal 5**
 * ---> **19 Jun 2022 02:00 Athens**
 * Hand baggage: 1 handbag/laptop bag, plus1 additional cabin bag 
 * Checked baggage: **1 bags at 23kg** (51lbs)
