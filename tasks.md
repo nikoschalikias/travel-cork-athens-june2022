@@ -11,3 +11,4 @@
 - [ ] 2. Ask for Annual leave 
 - [ ] 3. Contact Froso, for Yaris insurance
 - [ ] 4. Review Tax for Yaris
+- [ ] 5. List and Box what to get
