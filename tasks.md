@@ -11,7 +11,8 @@
 - [ ] 2. Ask for Annual leave 
 - [ ] 3. Contact Froso, for Yaris insurance
 - [ ] 4. Review Tax for Yaris
-- [ ] 5. List and Box what to get
+- [x] 5. Create packList 
+
 
 ----
 - [x] 6. Order a PS mouse adapter
@@ -22,4 +23,8 @@
   - [x] [Ποντίκι Microsoft Basic Optical Mouse for Business - 800 DPI - PS/2, USB - Black](https://www.cosmodata.gr/product/188406/) @ 11.30€ not available
   - [x] [Microsoft P58-00058 Basic Optical Mouse - White](https://www.amazon.co.uk/Microsoft-Basic-Optical-Mouse-White/dp/B009PDMN94/ref=sr_1_4?crid=1TFFWF3SR6NDI&keywords=Microsoft%2BBasic%2BOptical%2BMouse&qid=1651739915&sprefix=microsoft%2Bbasic%2Boptical%2Bmouse%2Caps%2C46&sr=8-4&th=1) @ £10.45, black £8.40
 - [x] 9. Order best price PS/2 mouse
+
+----
+
+- [ ] 10. Create a packList driven Box
  
