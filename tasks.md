@@ -15,3 +15,6 @@
 
 ----
 - [x] 6. Order a PS mouse adapter
+- [x] 7. Review [USB to PS/2 adapter, how does this work?](https://www.edaboard.com/threads/usb-to-ps-2-adapter-how-does-this-work.386329/)
+- [ ] 8. Identify PS2 mouses
+  - [x] [erixx Perimice-209 P Wired PS2 Mouse](https://www.amazon.co.uk/dp/B07WV55HZD/?coliid=I3DB26ZYYV247F&colid=1II7O5H31KI7Z&ref_=gv_ov_lig_pi_dp&th=1)
