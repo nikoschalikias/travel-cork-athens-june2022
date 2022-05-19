@@ -7,6 +7,7 @@
 
 * [tasks](./tasks.md)
 * [packList](./packList.md)
+* [books](./books.md)
 
 
 
