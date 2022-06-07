@@ -30,5 +30,5 @@
 - [ ] 21. Identify 4 suitcases (2 checkin x 23Kg, 2 cabin 8Kg)
 - [ ] 22. Watches
 - [ ] 23. Paracord
-- [ ] 24. Paracord Orders list
+
  
