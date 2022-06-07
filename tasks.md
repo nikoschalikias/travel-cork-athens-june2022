@@ -41,5 +41,6 @@
 - [ ] 17. make Passepartout materials list
 - [ ] 18. Review Amazon photo chemicals
 - [ ] 19. Review photo chemicals can buy from Athens
+- [ ] 20. Check Jennys dates for annual leave
 
  
