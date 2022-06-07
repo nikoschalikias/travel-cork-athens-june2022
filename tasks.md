@@ -39,5 +39,7 @@
 - [ ] 15. Contact Proteas for basketball
 - [ ] 16. make Paracord Orders list
 - [ ] 17. make Passepartout materials list
+- [ ] 18. Review Amazon photo chemicals
+- [ ] 19. Review photo chemicals can buy from Athens
 
  
