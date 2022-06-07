@@ -21,12 +21,14 @@
 - [ ] 12. Canon headsup setup
 - [ ] 13. Smartphone headsup stand
 - [ ] 14. Action camera and accessories
-- [ ] 15. reading glasses
+- [ ] 15. Reading and sun glasses
 - [ ] 16. T-Shirts
 - [ ] 17. Underwear
 - [ ] 18. Huts
 - [ ] 19. jeans
 - [ ] 20. Shoes
 - [ ] 21. Identify 4 suitcases (2 checkin x 23Kg, 2 cabin 8Kg)
-- [ ] 22. 
+- [ ] 22. Watches
+- [ ] 23. Paracord
+- [ ] 24. Paracord Orders list
  
