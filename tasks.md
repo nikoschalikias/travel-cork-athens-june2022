@@ -29,6 +29,7 @@
 ----
 
 - [x] 10. Create a packList driven Box
+  - [ ] add a 2nd box
 - [x] 11. Review ΔΕΗ
     - [x] Pay 200 euro
     - [ ] Pay 50 euro
