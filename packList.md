@@ -11,6 +11,16 @@
 - [ ] 2. 3DP Molex cables
 - [ ] 3. paracord set
 - [ ] 4. ToolBox
+- [ ] 5. Camera 1300D
+- [ ] 6. Camera 1100D
+- [ ] 7. Film cameras
+- [ ] 8. Digital lenses
+- [ ] 9. Film lenses
+- [ ] 10. Film photos book
+- [ ] 11. Processed films
+- [ ] 12. Canon headsup setup
+- [ ] 13. Smartphone headsup stand
+
 
 
  
