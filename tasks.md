@@ -7,7 +7,7 @@
 
 # tasks
 
-- [ ] 1. Contact NOB
+- [x] 1. Contact NOB
 - [ ] 2. Ask for Annual leave
   - [x] Review Core --> 38 days, can take 32 days
   - [x] Update/Preview my paper calendar
@@ -29,5 +29,5 @@
 ----
 
 - [ ] 10. Create a packList driven Box
-- [ ] 11. Review ΔΕΗ
+- [x] 11. Review ΔΕΗ
  
