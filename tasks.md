@@ -33,4 +33,7 @@
     - [x] Pay 200 euro
     - [ ] Pay 50 euro
 - [ ] 12. Review tickets for 31 August ATH-ORK
+- [ ] 13. Measure casio piano and the large suitcase
+- [ ] 14. measure violin
+
  

@@ -20,6 +20,7 @@
 - [ ] 11. Processed films
 - [ ] 12. Canon headsup setup
 - [ ] 13. Smartphone headsup stand
+- [ ] 14. Action camera and accessories
 
 
 
