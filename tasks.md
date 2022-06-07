@@ -30,5 +30,7 @@
 
 - [ ] 10. Create a packList driven Box
 - [x] 11. Review ΔΕΗ
+    - [x] Pay 200 euro
+    - [ ] Pay 50 euro
 - [ ] 12. Review tickets for 31 August ATH-ORK
  
