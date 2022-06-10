@@ -56,3 +56,5 @@
     - Just 1 August
 - [ ] 23. Motor tax 
 - [ ] 24. Collect orders from MTU
+- [ ] 25. Yaris Athens insurance
+    - Requested from Froso
