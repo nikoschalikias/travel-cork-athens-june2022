@@ -33,7 +33,9 @@
 - [x] 11. Review ΔΕΗ
     - [x] Pay 200 euro
     - [ ] Pay 50 euro
-- [ ] 12. Review tickets for 31 August ATH-ORK
+- [x] 12. Review tickets for 31 August ATH-ORK
+    - Aegean ATH 08:25  AMS 11:10 174 EURO
+    - KLM.....    AMS 15:50  ORK 16:40 87 EURO
 - [ ] 13. Measure casio piano and the large suitcase
 - [ ] 14. Measure violin size
 - [ ] 15. Contact Proteas for basketball
@@ -44,5 +46,5 @@
 - [x] 20. Check Jennys dates for annual leave
     - Last week of July and 1st week of August
 - [ ] 21. Review the proccesss for my vodafone number to cosmote
-
+- 
  
