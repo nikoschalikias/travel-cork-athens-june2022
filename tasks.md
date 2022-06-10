@@ -42,7 +42,8 @@
 - [x] 12. Review tickets for 31 August ATH-ORK
     - Aegean ATH 08:25  AMS 11:10 174 EURO
     - KLM.....    AMS 15:50  ORK 16:40 87 EURO
-- [ ] 13. Measure casio piano and the large suitcase
+- [x] 13. Measure casio piano and the large suitcase
+    - Casio is too long for the suitcase
 - [ ] 14. Measure violin size
 - [ ] 15. Contact Proteas for basketball
 - [ ] 16. make Paracord Orders list
