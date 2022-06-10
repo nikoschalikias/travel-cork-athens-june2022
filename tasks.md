@@ -46,5 +46,6 @@
 - [x] 20. Check Jennys dates for annual leave
     - Last week of July and 1st week of August
 - [ ] 21. Review the proccesss for my vodafone number to cosmote
+- [ ] 22. Review bank holodays for summer
 - 
  
