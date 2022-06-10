@@ -8,9 +8,13 @@
 # tasks
 
 - [x] 1. Contact NOB
-- [ ] 2. Ask for Annual leave
+- [x] 2. Ask for Annual leave
   - [x] Review Core --> 38 days, can take 32 days
   - [x] Update/Preview my paper calendar
+  - 10 days 20 June to 1st July
+  - 09 days 25 July to 5th August
+  - 05 days 08 Aug to 12 Aug
+  - 04 days 28 Aug to 31 Aug
 - [ ] 3. Contact Froso, for Yaris insurance
 - [ ] 4. Review Tax for Yaris
 - [x] 5. Create packList 
