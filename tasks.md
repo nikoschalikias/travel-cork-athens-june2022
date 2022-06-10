@@ -62,3 +62,8 @@
 - [ ] 24. Collect orders from MTU
 - [ ] 25. Yaris Athens insurance
     - Requested from Froso
+- [ ] 26. Review my Cosmote
+    - Android app can't connect
+    - Access to cosmote.gr works from browser
+    - Updated card and paied 25 euro credit
+    - reinstalled android app, still the same issue    
