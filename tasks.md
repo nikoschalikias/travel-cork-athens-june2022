@@ -67,4 +67,5 @@
     - Access to cosmote.gr works from browser
     - Updated card and paied 25 euro credit
     - reinstalled android app, still the same issue 
-- [ ] 27.  Cosmote To activate This-->Πακέτο Απεριόριστα GB για 2 μήνες 25 euro   
+- [ ] 27.  Cosmote To activate This-->Πακέτο Απεριόριστα GB για 2 μήνες 25 euro 
+- [x] 28. Bafi Parnitha book Thursday, 14 July 2022  
