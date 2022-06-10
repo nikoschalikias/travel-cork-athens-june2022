@@ -17,7 +17,7 @@
   - 04 days 28 Aug to 31 Aug
   - 10 days leftover to transfer to new academic year
   - Map Annual leave to Academic year planner 
-- [ ] 3. Contact Froso, for Yaris insurance
+- [x] 3. Contact Froso, for Yaris insurance
 - [ ] 4. Review Tax for Yaris
 - [x] 5. Create packList 
 
