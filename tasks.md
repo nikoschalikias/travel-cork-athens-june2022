@@ -49,7 +49,9 @@
 - [ ] 15. Contact Proteas for basketball
 - [ ] 16. make Paracord Orders list
 - [ ] 17. make Passepartout materials list
-- [ ] 18. Review Amazon photo chemicals
+- [x] 18. Review Amazon photo chemicals
+    - Ilford Half litre bottles at 17 GBP, need 6 different, delivery in a week
+    - Buy from Greece
 - [ ] 19. Review photo chemicals can buy from Athens
 - [x] 20. Check Jennys dates for annual leave
     - Last week of July and 1st week of August
