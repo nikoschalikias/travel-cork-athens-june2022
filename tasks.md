@@ -44,7 +44,8 @@
     - KLM.....    AMS 15:50  ORK 16:40 87 EURO
 - [x] 13. Measure casio piano and the large suitcase
     - Casio is too long for the suitcase
-- [ ] 14. Measure violin size
+- [x] 14. Measure violin size
+    - Violin case is OK for the blue suitcase
 - [ ] 15. Contact Proteas for basketball
 - [ ] 16. make Paracord Orders list
 - [ ] 17. make Passepartout materials list
