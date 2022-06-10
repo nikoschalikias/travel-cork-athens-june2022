@@ -54,4 +54,4 @@
 - [x] 22. Review bank holidays for summer
     - Just 1 August
 - [ ] 23. Motor tax 
- 
+- [ ] 24. Collect orders from MTU
