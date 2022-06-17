@@ -60,7 +60,7 @@
     - Just 1 August
 - [x] 23. Motor tax 
 - [ ] 24. Collect orders from MTU
-- [ ] 25. Yaris Athens insurance
+- [x] 25. Yaris Athens insurance
     - Requested from Froso
     - Froso replied, will send on monday
 - [x] 26. Review my Cosmote
