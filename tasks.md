@@ -59,7 +59,7 @@
 - [x] 22. Review bank holidays for summer
     - Just 1 August
 - [x] 23. Motor tax 
-- [ ] 24. Collect orders from MTU
+- [x] 24. Collect orders from MTU
 - [x] 25. Yaris Athens insurance
     - Requested from Froso
     - Froso replied, will send on monday
